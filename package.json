@@ -1,0 +1,14 @@
+{
+  "name": "meican-account",
+  "version": "1.0.0",
+  "description": "A tool for meican account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XRene",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.1.1"
+  }
+}
